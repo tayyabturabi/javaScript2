@@ -323,3 +323,70 @@
 
 
 
+
+
+
+//     document.write("Hello, " + naMe + "! Welcome to our program.");
+
+//Chapt# 6-9
+// QUESTION #6
+
+// var english=("English");
+// var urdu=("Urdu");
+// var math=("Math");
+
+
+// var totaleng=(100);
+// var totalurd=(100);
+// var totalmath=(100);
+
+// var obteng=(54);
+// var obturd=(78);
+// var obtmath=(48);
+// var per=((obteng+obtmath+obturd)*(100)/ (totaleng+totalmath+totalurd));
+
+// document.write("<table >");
+
+// document.write("<b>"+"Subject total marks Obtained marks Percentage"+  "</b>");
+// document.write("<tr>");
+// document.write("<td>"+"<b>"+"Subjects"+"</b>"+ "</td>");
+// document.write("<td>"+"<b>"+"Total Marks"+"</b>"+ "</td>");
+// document.write("<td>"+"<b>"+"Obtained Marks"+"</b>"+ "</td>");
+// document.write("<td>"+"<b>"+"Percentage"+"</b>"+ "</td>");
+// document.write("</tr>");
+
+
+// document.write("</table");
+
+// document.write("<table>");
+// document.write("<tr>");
+// document.write("<td>" +english  +"</td>");
+// document.write("<td>" +totaleng  +"</td>");
+// document.write("<td>" +obteng  +"</td>");
+// document.write("<td>" +obteng*100/totaleng+"%"  +"</td>");
+// document.write("</tr>");
+
+
+// document.write("<tr>");
+// document.write("<td>" +urdu  +"</td>");
+// document.write("<td>" +totalurd  +"</td>");
+// document.write("<td>" +obturd  +"</td>");
+// document.write("<td>" +obturd*100/totalurd+"%"  +"</td>");
+// document.write("</tr>");
+
+// document.write("<tr>");
+// document.write("<td>" +math  +"</td>");
+// document.write("<td>" +totalmath  +"</td>");
+// document.write("<td>" +obtmath  +"</td>");
+// document.write("<td>" +obtmath*100/totalmath+"%"  +"</td>");
+// document.write("</tr>");
+
+// document.write("<tr>");
+// document.write("<td>"+"</td>");
+// document.write("<td>"+(totaleng+totalmath+totalurd) +"</td>");
+// document.write("<td>"+(obteng+obturd+obtmath) +"</td>");
+// document.write("<td>"+per+ "%"+"</td>");
+
+
+
+
